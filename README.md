@@ -6,7 +6,7 @@ I'm Vitalik-Hakim😉
 
 I like to explore👨‍💻 
 
-If you'd love talk🙂, check out my [Telegram](https://t.me/hakim_starboy) or hit me up on [Shout](https://shout.tribe.so/user/sharkest)! A social platform I made for everyone. Use TOR? :) hidden service [here](http://y2xy32z4c7kpbc6rnra5vhmwtqaqbt4vo2tf7q2sep5cvxb5nnkwqoqd.onion/)
+If you'd love talk🙂, check out my [Telegram](https://t.me/hakim_starboy) or hit me up on [Shout](https://shout.tribe.so/user/sharkest)! A social platform I made for everyone. Use TOR? :) hidden service [here](http://y2xy32z4c7kpbc6rnra5vhmwtqaqb4vo2tf7q2sep5cvxb5nnkwqoqd.onion/)
 
 Wait! I have my personal project coming soon and if you want to contribute just send a pull request.
 
