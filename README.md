@@ -9,7 +9,6 @@ I like to explore👨‍💻
 If you'd love talk🙂, check out my [Telegram](https://t.me/hakim_starboy) or hit me up on [Shout](https://shout.tribe.so/user/sharkest)
 
 Personal Project donee!
-![!](https://komarev.com/ghpvc/?username=Vitalik-Hakim&color=brightgreen)
 <p align="center">
   <a href="https://github.com/Vitalik-Hakim?tab=followers">
     <img src="https://img.shields.io/github/followers/Vitalik-hakim?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
