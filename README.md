@@ -21,7 +21,7 @@
 <br><br>
 
 - 👨🏽‍💻 I’m currently working on a Timetable App;
-- 🌱 I’m currently learning VUE.JS; 
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 - 💬 [Text Me!](https://t.me/hakim_starboy)
 - 📝 [LinkedIn/Resume](https://www.linkedin.com/in/abdul-hakim-aremeyaw-7b69a7223/)
 - I have a good understanding of System Development and Computer Organization. Currently, I'm trying to build a compiler and an interpreter with [@Michelle-Lawson](https://github.com/lawsonm525) using assembly language. Any help would be much appreciated!
