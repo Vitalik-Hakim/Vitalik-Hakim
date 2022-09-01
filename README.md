@@ -2,10 +2,10 @@
 
 <h1 align="center"> 👋 Hi , I'm Vitalik-Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=High+School+Student+Junior;Software+Developer;Algorithm+Freak;Always%20creating%20new%20solutions&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=High+School+Student;Software+Developer;Algorithm+Freak;Always%20creating%20new%20solutions&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> I find solutions to problems in creative ways. As a Junior-year IB Diploma Programme student, I have learnt from my many ventures that problem-solving is an important skill to have and have improved this skill through trial and error over the years. </h4> 
+<h4 align="center"> I find solutions to problems in creative ways. As a Junior year IB Diploma Programme student, I have learnt from my many ventures that problem-solving is an important skill to have and have improved this skill through trial and error over the years. </h4> 
 
 <br>
 <p align="center">
