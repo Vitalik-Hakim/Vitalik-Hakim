@@ -90,6 +90,8 @@
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{vitalik-hakim}1212%2Fhit-counter" alt="GitHub badge" />
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=vitalik-hakim&theme=light&hide_border=false)
+
 <p align="center">Nice meeting you! ❤️</p>
 
 
