@@ -20,7 +20,7 @@
 
 <br><br>
 
-- 👨🏽‍💻 I’m currently working on a Ujamaa(https://github.com/vitalikim/TuckShop-Online);
+- 👨🏽‍💻 I’m currently working on [Ujamaa](https://github.com/vitalikim/TuckShop-Online);
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 - 💬 [Text Me!](https://t.me/hakim_starboy)
 - 📝 [LinkedIn/Resume](https://www.linkedin.com/in/abdul-hakim-aremeyaw-7b69a7223/)
