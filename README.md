@@ -84,7 +84,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitalik-hakim&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="vitalik-hakim" height="192px"/>
   <br/>
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Vitalik-hakim" />
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
