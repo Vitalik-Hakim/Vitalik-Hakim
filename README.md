@@ -2,10 +2,10 @@
 
 <h1 align="center"> 👋 Hi , I'm Vitalik-Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=High+School+Senior;Software+Developer;Algorithm+Freak;Always%20creating%20new%20solutions&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS;Software+Developer;Algorithm+Freak;Always%20creating%20new%20solutions&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> I find solutions to problems in creative ways. As a Senior year IB Diploma Programme student, I have learnt from my many ventures that problem-solving is an important skill to have and have improved this skill through trial and error over the years. </h4> 
+<h4 align="center"> I find solutions to problems in creative ways. As a CS Freshman, I have learnt from my many ventures that problem-solving is an important skill to have and have improved this skill through trial and error over the years. </h4> 
 
 <br>
 <p align="center">
@@ -20,10 +20,10 @@
 
 <br><br>
 
-- 👨🏽‍💻 I’m currently working on [Ujamaa](https://github.com/vitalikim/TuckShop-Online);
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+- 👨🏽‍💻 I’m currently working on [Superate.app](https://github.com/superate-hq);
+- 🌱 I’m currently pursuing a bsc in CS
 - 💬 [Text Me!](https://t.me/hakim_starboy)
-- 📝 [LinkedIn/Resume](https://www.linkedin.com/in/abdul-hakim-aremeyaw-7b69a7223/)
+- 📝 [LinkedIn/Resume](https://www.linkedin.com/)
 - I have a good understanding of System Development and Computer Organization. Currently, I'm trying to build a compiler and an interpreter with [@Michelle-Lawson](https://github.com/lawsonm525) using assembly language. Any help would be much appreciated!
 <br>
 
