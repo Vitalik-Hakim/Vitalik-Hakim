@@ -79,7 +79,6 @@
     <br/>
   <br/>
   <p align="center">
-    <a href="https://github.com/vitalik-hakim/github-readme-stats"><img alt="Vitalik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vitalik-hakim&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a>
 <br/><br/>
   &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitalik-hakim&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="vitalik-hakim" height="192px"/>
@@ -87,11 +86,9 @@
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{vitalik-hakim}1212%2Fhit-counter" alt="GitHub badge" />
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vitalik-hakim&theme=light&hide_border=false)
-
+  
+![](https://komarev.com/ghpvc/?username=vitalik-hakim)
+![Vitalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalik-hakim)
 <p align="center">Nice meeting you! ❤️</p>
 
 
