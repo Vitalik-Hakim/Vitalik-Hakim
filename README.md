@@ -23,7 +23,7 @@
 - 👨🏽‍💻 I’m currently working on [Superate.app](https://github.com/superate-hq);
 - 🌱 I’m currently pursuing a bsc in CS
 - 💬 [Text Me!](https://t.me/hakim_starboy)
-- 📝 [LinkedIn/Resume](https://www.linkedin.com/)
+- 📝 [LinkedIn/Resume](https://docs.google.com/document/d/1U6N7HzbbcukMPBnoH8W4sFzkYbrZAZJglGB0a3mCOV8/edit?usp=sharing)
 - I have a good understanding of System Development and Computer Organization. Currently, I'm trying to build a compiler and an interpreter with [@Michelle-Lawson](https://github.com/lawsonm525) using assembly language. Any help would be much appreciated!
 <br>
 
