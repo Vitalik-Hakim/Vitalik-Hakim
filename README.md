@@ -87,8 +87,10 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
   
-![](https://komarev.com/ghpvc/?username=vitalik-hakim)
+
+[![Streak](https://streak-stats.demolab.com?user=vitalik-hakim&theme=dark)](https://git.io/streak-stats)
 ![Vitalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalik-hakim)
+![](https://komarev.com/ghpvc/?username=vitalik-hakim)
 <p align="center">Nice meeting you! ❤️</p>
 
 
