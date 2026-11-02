@@ -23,7 +23,7 @@
 - 👨🏽‍💻 I’m actively maintaining [Antigpt.app](https://antigpt.app);
 - 🌱 I’m currently pursuing a bsc in CS
 - 💬 [Text Me!](https://t.me/hakim_starboy)
-- 📝 [LinkedIn/Resume](https://docs.google.com/document/d/1U6N7HzbbcukMPBnoH8W4sFzkYbrZAZJglGB0a3mCOV8/edit?usp=sharing)
+- 📝 [LinkedIn/Resume](https://gh.linkedin.com/in/abdul-hakim-vitalik-7b69a7223)
 <br>
 
 #
