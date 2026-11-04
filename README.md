@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdul Hakim (Vitalik) 👋</h1>
+<h1 align="center">Hi, I'm Vitalik-Hakim 👋</h1>
 
 <p align="center">
   <b>Software engineer · open-source maintainer · founder of <a href="https://antigpt.app">AntiGPT</a></b><br>
@@ -18,6 +18,7 @@
   <a href="mailto:vitalikhakim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/hakim_starboy"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://github.com/Vitalik-Hakim?tab=followers"><img src="https://img.shields.io/github/followers/Vitalik-Hakim?label=Followers&logo=github&style=for-the-badge" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vitalik-hakim&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ## About me
