@@ -23,7 +23,7 @@
 
 ## About me
 
-- 🔧 **Open source:** reviving [pysftp](https://pypi.org/project/pysftp/), still installed about 11.8 million times a month but broken on paramiko 4, as **[pysftp-ng](https://github.com/Vitalik-Hakim/pysftp-ng)**: a drop-in fork tested on Python 3.9–3.14.
+- 🔧 **Open source:** reviving [pysftp](https://pypi.org/project/pysftp/), still installed about 11.8 million times a month but broken on paramiko 4, as **[pysftp-ng](https://pypi.org/project/pysftp-ng/)**: a drop-in fork tested on Python 3.9–3.14.
 - 🚀 **Founder and sole engineer of [AntiGPT](https://antigpt.app):** a paid SaaS that refines AI-written text, grown to 10,000+ users. I run it end to end: backend, frontend, billing and infrastructure.
 - 🎓 **Computer Science at Ashesi University** (class of 2028). 
 - 💼 **Open to** software engineering internships and roles.
